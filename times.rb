@@ -1,3 +1,5 @@
+require_relative "spec_helper"
+require_relative "../times.rb"
 
 
 phrase = 'Wingardium Leviosa'
