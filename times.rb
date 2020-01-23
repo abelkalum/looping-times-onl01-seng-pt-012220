@@ -10,6 +10,7 @@ def using_times(phrase)
 end
 
 Wingardium Leviosa
+Wingardium Leviosa
 
 
 
