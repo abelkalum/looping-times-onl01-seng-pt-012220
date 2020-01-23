@@ -1,5 +1,5 @@
-require_relative "spec_helper"
-require_relative "../times_spec.rb"
+require "spec_helper"
+require "../times_spec.rb"
 
 def using_times
 	7.times do
